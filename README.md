@@ -49,4 +49,4 @@ streamlit run app/app.py
 * **ML:** Scikit-Learn, XGBoost
 * **Интерпретация:** SHAP
 * **Интерфейс:** Streamlit
-* **Деплой:** 
+* **Деплой:** [https://insurance-prediction-uczqwqxtyhyypfwe6pmv4m.streamlit.app/]
