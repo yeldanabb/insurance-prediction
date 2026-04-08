@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 import os
 
-st.set_page_config(page_title="Insurance Predictor", page_icon="💰")
+st.set_page_config(page_title="Insurance Predictor")
 
 st.title("Прогноз стоимости медицинской страховки")
 st.write("Данное приложение использует модель машинного обучения (XGBoost) для оценки ежегодных медицинских расходов клиента")
